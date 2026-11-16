@@ -1,6 +1,6 @@
 # Geoffrey Deverchere
 
-Je conçois des projets logiciels. Deux projets en cours illustrent ma façon de travailler, de la conception d’un parcours à la vérification des résultats produits avec l’IA.
+Bienvenue ! J’aime partir d’un besoin concret, construire une solution et la tester. Voici deux projets en cours et quelques choix qui les ont fait avancer.
 
 ## DEVERCHERE · Concevoir une vitrine et séparer les usages
 
@@ -10,8 +10,8 @@ Je développe un site qui présente mes prestations et mes réalisations. La vit
 
 *Aperçu de la page d’accueil sur l’instance locale en fonctionnement.*
 
-## ai-workspace · Rendre le travail avec l’IA réutilisable
+## ai-workspace · Retrouver mes méthodes d’un projet à l’autre
 
-J’ai créé un référentiel personnel pour retrouver mes standards, modèles et méthodes de travail d’un projet à l’autre. J’y ai préparé un pilote de supervision pour répartir les tâches complexes sans perdre le fil de la décision.
+J’y rassemble mes standards de développement, mes modèles de documents et les étapes des tâches que je répète. L’idée est de garder une trace de ce qui fonctionne et de pouvoir le reprendre ailleurs.
 
-Sur un cas fictif, un superviseur a confié le repérage des faits et la comparaison des options à deux agents. Il a attendu leurs résultats, puis les a réunis dans une synthèse vérifiée. Cet essai a validé le fonctionnement de l’équipe sur ce cas. Les économies de crédits restent à mesurer sur un travail réel.
+J’y ai aussi testé un usage ciblé de l’IA avec Codex. Sur un cas fictif, un agent a relevé les faits, un second a comparé les options et le superviseur a réuni leurs réponses. La synthèse a été vérifiée sur ce cas. Les économies de crédits restent à mesurer sur un travail réel.
