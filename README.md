@@ -2,16 +2,18 @@
 
 Bienvenue ! J’aime partir d’un besoin concret, construire une solution et la tester. Voici deux projets en cours et quelques choix qui les ont fait avancer.
 
-## DEVERCHERE · Concevoir une vitrine et séparer les usages
+## DEVERCHERE · Rendre une offre lisible dès l’accueil
 
-Je développe un site qui présente mes prestations et mes réalisations. La vitrine bilingue, réalisée avec Next.js, permet de comprendre l’offre, de voir des exemples et de prendre contact. L’espace de gestion reste distinct du parcours des visiteurs.
+J’ai conçu cette vitrine pour que les visiteurs puissent comprendre mes prestations, voir des réalisations et me contacter facilement. La page d’accueil présente l’offre et donne accès aux exemples et au contact dès la navigation principale.
+
+J’ai développé la vitrine en TypeScript avec Next.js, en français et en anglais. La gestion du site se fait dans un espace séparé du parcours public.
 
 ![Page d’accueil DEVERCHERE avec le message « Un nouveau site. À votre image. »](assets/deverchere-vitrine.jpg)
 
 *Aperçu de la page d’accueil sur l’instance locale en fonctionnement.*
 
-## ai-workspace · Retrouver mes méthodes d’un projet à l’autre
+## ai-workspace · Des méthodes qui suivent mes projets
 
-J’y rassemble mes standards de développement, mes modèles de documents et les étapes des tâches que je répète. L’idée est de garder une trace de ce qui fonctionne et de pouvoir le reprendre ailleurs.
+Quand je change de projet ou d’ordinateur, je veux retrouver les méthodes qui m’ont déjà servi. J’ai créé un référentiel Git pour garder au même endroit mes standards de développement, mes modèles de documents et mes procédures. Chaque projet peut reprendre les ressources dont il a besoin.
 
-J’y ai aussi testé un usage ciblé de l’IA avec Codex. Sur un cas fictif, un agent a relevé les faits, un second a comparé les options et le superviseur a réuni leurs réponses. La synthèse a été vérifiée sur ce cas. Les économies de crédits restent à mesurer sur un travail réel.
+J’y ai testé une façon de répartir une analyse avec Codex. Sur un cas fictif, un agent a relevé les faits et un autre a comparé les options. Le superviseur a rassemblé leurs réponses dans une synthèse, qui a ensuite été vérifiée. L’essai confirme que la répartition fonctionne sur ce cas. Le gain de temps ou de crédits reste à mesurer sur un projet réel.
